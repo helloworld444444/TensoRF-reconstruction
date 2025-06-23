@@ -1,8 +1,6 @@
 # TensoRF-reconstruction
 
 
-    # TensoRF 物体重建系统
-
 > 基于 TensoRF 的物体重建与新视图合成实现 | 深度学习与神经网络期末项目
 
 ## 项目概述
