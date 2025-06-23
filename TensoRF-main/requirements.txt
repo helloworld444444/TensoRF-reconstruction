@@ -1,0 +1,10 @@
+numpy
+scipy
+torch>=1.10.0
+torchvision
+tqdm
+matplotlib
+imageio
+imageio-ffmpeg
+lpips
+tensorboard
